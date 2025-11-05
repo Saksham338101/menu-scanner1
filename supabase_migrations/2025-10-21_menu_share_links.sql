@@ -1,0 +1,1 @@
+-- Deprecated: share links now use signed tokens and do not require database storage.
